@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fssp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
